@@ -41,3 +41,8 @@ Sno|Name
 :+1:
 
 ~~This was Mistaken Text~~
+
+```
+Git status
+Git commit
+```
